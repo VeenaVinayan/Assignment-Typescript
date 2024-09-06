@@ -1,0 +1,11 @@
+
+
+{
+  "compilerOptions": {
+    "target": "es2015",          // Set ECMAScript target version
+    "module": "commonjs",        // Use commonjs module system
+    "moduleResolution": "node",  // Resolve modules using Node.js style
+    "downlevelIteration": true,  // Enable downlevel iteration
+    "strict": true               // Enable all strict type-checking options
+  }
+}
